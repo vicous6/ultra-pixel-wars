@@ -12,9 +12,9 @@ const server = http.createServer(app);
 const io = new Server(server);
 
 // Game settings
-const pixelSize = 6;
+const pixelSize = 3;
 const canvasWidth = 1400;
-const canvasHeight = 600;
+const canvasHeight = 560;
 
 const REST_TIME_MS = 1000;
 
