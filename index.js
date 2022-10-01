@@ -14,7 +14,7 @@ const io = new Server(server);
 // Game settings
 const pixelSize = 3;
 const canvasWidth = 1400;
-const canvasHeight = 560;
+const canvasHeight = 600;
 
 const REST_TIME_MS = 1000;
 
