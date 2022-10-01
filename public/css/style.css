@@ -29,6 +29,8 @@ h2{
   color: white;
   font-size: 10px;
   z-index: auto;
+  height: 40px;
+  width: 120px;
 }
 .color-bar {
   display: flex;
