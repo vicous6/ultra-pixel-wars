@@ -16,7 +16,7 @@ const pixelSize = 3;
 const canvasWidth = 1400;
 const canvasHeight = 600;
 
-const REST_TIME_MS = 1000;
+const REST_TIME_MS = 70;
 
 const updateTable = {};
 
