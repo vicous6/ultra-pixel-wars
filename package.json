@@ -5,14 +5,15 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo'buildingggg'",
+    "start": "node index"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
-    "socket.io": "^4.4.1"
+    "socket.io": "^4.4.1",
+    "yarn": "^1.22.19"
   }
 }
