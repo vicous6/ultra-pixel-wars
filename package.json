@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "echo'buildingggg'",
-    "start": "node index"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
