@@ -49,9 +49,7 @@ socket.on("update-pixel-data", (pixelData) => {
 });
 
 socket.on("cannot-update", () => {
-  alert(
-    "Calme-toi mon ami ! Attends un peu, avant de dessiner un nouveau pixel :)"
-  );
+  
 });
 
 onClickColor({
